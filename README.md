@@ -24,4 +24,8 @@ without which county= কোন দেশ ছাড়া
 
 whose Father= কার বাবা [ whose এর পরে Noune হবে]
 
+whose father plays the game here?
+
+whose this book?
+
 whom হছে objectiv from [ এক জন ব্যাক্তি বোঝাতে]
