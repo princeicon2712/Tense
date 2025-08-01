@@ -28,4 +28,4 @@ whose father plays the game here?
 
 whose this book?
 
-whom হছে objectiv from [ এক জন ব্যাক্তি বোঝাতে]
+whom হছে objectiv from [ এক জন ব্যাক্তি বোঝাতে] এর অর্থ কাকে/কাদের কে
