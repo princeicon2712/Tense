@@ -4,6 +4,13 @@ S,SS,sh,ch,o,x থাকলে es যোগ হয়।
 না থাকলে e যোগ হয়
 
 
+## What এর ব্যাবহার
+
+what এর পর কখন do সাহায্য কারি হিসাবে বসে
+
+what+do+you+ verb [ যখন verb থাকে]
+
+What+are/is/are+your father name [ Father এখানে pronoun মাননে verb ছাড়া ]
 
 ## which এর ব্যাবহার,  which এর পরে (ব্যাক্তি বাচচক/বস্তু বাচক শব্দ বস্তে পারে)
 
