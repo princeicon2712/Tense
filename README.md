@@ -41,3 +41,18 @@ whom= কাকে/ কাদের কে
 
 with whome = কাদের সাথে [ With home are you spacking? ]
 
+
+
+## conjantion
+
+as well as - পাশা পাশি
+
+i am a student as well as  teacher
+
+
+as for as - যতদূর
+
+as for as i know,  he is a teacher.
+
+
+
