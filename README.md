@@ -55,4 +55,9 @@ as for as - যতদূর
 as for as i know,  he is a teacher.
 
 
+that's why - তাই/এই কারনে
+
+exam:- i was sick that's why i don't go to collage.
+
+
 
