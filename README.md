@@ -3,6 +3,11 @@
 S,SS,sh,ch,o,x থাকলে es যোগ হয়।
 না থাকলে e যোগ হয়
 
+## Parts of Soeech
+
+মনে রাখার কৌশল:- N-P-V-A-A-P-C-I
+
+
 
 ## What এর ব্যাবহার
 
