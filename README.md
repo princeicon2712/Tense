@@ -60,4 +60,4 @@ that's why - তাই/এই কারনে
 exam:- i was sick that's why i don't go to collage.
 
 
-
+a lot of - অনেক
