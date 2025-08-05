@@ -256,6 +256,7 @@ a lot of - অনেক
 A lot of = অনেক (পরিমাণ বা সংখ্যা বোঝাতে)
 
 exa:- They eat a lot of rice every day
+তারা প্রতিদিন অনেক ভাত খায়।
 
 
 
