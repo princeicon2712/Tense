@@ -253,6 +253,9 @@ exam:- i was sick that's why i don't go to collage.
 
 
 a lot of - অনেক
+A lot of = অনেক (পরিমাণ বা সংখ্যা বোঝাতে)
+
+exa:- They eat a lot of rice every day
 
 
 
