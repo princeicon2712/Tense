@@ -79,6 +79,7 @@ as well as - পাশা পাশি
 i am a student as well as  teacher
 
 
+
 as for as - যতদূর
 
 as for as i know,  he is a teacher.
@@ -107,3 +108,5 @@ Bruva
 whenever i get a time.
 
 I think here present every single person is a motivational speaker
+
+i gonna be 24 age.
