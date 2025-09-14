@@ -93,6 +93,6 @@ a lot of - অনেক
 
 ex:- there is lot of people living vr.
 
-kind og
+kind of-- কিছু
 
 i'm kind of sick.
