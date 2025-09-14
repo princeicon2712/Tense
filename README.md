@@ -96,3 +96,14 @@ ex:- there is lot of people living vr.
 kind of-- কিছু
 
 i'm kind of sick.
+
+
+## এস্টা ইংরেজি
+
+I need to get ready for work
+
+Bruva
+
+whenever i get a time.
+
+I think here present every single person is a motivational speaker
