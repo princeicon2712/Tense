@@ -90,3 +90,9 @@ exam:- i was sick that's why i don't go to collage.
 
 
 a lot of - অনেক
+
+ex:- there is lot of people living vr.
+
+kind og
+
+i'm kind of sick.
