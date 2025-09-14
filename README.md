@@ -108,6 +108,57 @@ kind of-- কিছু
 i'm kind of sick.
 
 
+
+## 🔹 সাধারণত ব্যবহৃত contraction গুলো:
+
+1. wanna = want to
+
+I wanna eat. 👉 I want to eat.
+
+Do you wanna go? 👉 Do you want to go?
+
+
+
+2. gonna = going to
+
+I’m gonna call him. 👉 I’m going to call him.
+
+
+
+3. gotta = got to / have to
+
+I gotta go now. 👉 I have to go now.
+
+
+
+4. lemme = let me
+
+Lemme help you. 👉 Let me help you.
+
+
+
+5. gimme = give me
+
+Gimme some water. 👉 Give me some water.
+
+
+
+6. kinda = kind of
+
+It’s kinda funny. 👉 It is kind of funny.
+
+
+
+7. outta = out of
+
+I’m outta money. 👉 I am out of money.
+
+
+
+8. gonna wanna (একসাথে শোনা যায় কখনো)
+
+You’re gonna wanna see this. 👉 You are going to want to see this.
+
 ## এস্টা ইংরেজি
 
 I need to get ready for work
