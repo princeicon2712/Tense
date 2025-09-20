@@ -11,8 +11,14 @@ S,SS,sh,ch,o,x থাকলে es যোগ হয়।
 
 African accent এ কথা বলতে হবে।
 
+## (1) Sentence
 
-## Parts of Soeech
+Structure অনুযায়ী: ৪ প্রকার → Simple, Compound, Complex, Compound-Complex
+
+Function অনুযায়ী: ৪ প্রকার → Declarative, Interrogative, Imperative, Exclamatory
+
+
+## (2) Parts of Soeech
 
 মনে রাখার কৌশল:- N-P-V-A-A-P-C-I
 
@@ -23,6 +29,8 @@ Article শেখা = Noun বোঝা দরকার
 Modifier শেখা = Adjective, Adverb বোঝা দরকার
 
 Preposition শেখা = Noun, Pronoun এর সাথে কিভাবে ব্যবহৃত হয় সেটা বোঝা দরকার
+
+## (3) Tanse
 
 
 
