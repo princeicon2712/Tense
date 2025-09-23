@@ -11,6 +11,8 @@ S,SS,sh,ch,o,x থাকলে es যোগ হয়।
 
 African accent এ কথা বলতে হবে।
 
+sub+am/is/ar+v1+adv+adj+nowne
+
 ## (1) Sentence
 
 Structure অনুযায়ী: ৪ প্রকার → Simple, Compound, Complex, Compound-Complex
