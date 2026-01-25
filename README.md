@@ -13,6 +13,11 @@ African accent এ কথা বলতে হবে।
 
 sub+am/is/ar+v1+adv+adj+nowne
 
+ ## youtube থেকে acccent শিখতে হবে
+
+ Shadowing English Speaking Practice [ Shadowing কথাটি লিখতে হবে]
+ 
+
 ## (1) Sentence
 
 Structure অনুযায়ী: ৪ প্রকার → Simple, Compound, Complex, Compound-Complex
