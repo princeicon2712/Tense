@@ -258,5 +258,7 @@ i gonna be 24 age.
 
 [ working memory থেকে long term memory নিতে চাইলে প্রতেক দিন চর্চা করতে হবে)
 
+<!--[profile](./g.jpg)-->
+<img src="g.jpg" width="600"/>
 
  
