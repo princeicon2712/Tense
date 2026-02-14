@@ -252,9 +252,9 @@ i gonna be 24 age.
 
 ## মাইন্ড টেডিং
 
-(১) working memory
+(১) working memory [ মাথার প্রথম অংশ]
 
-(২) long term memory
+(২) long term memory [ ফুটা ফুটা মাতার মধ্যের অংশ গুলো]
 
 [ working memory থেকে long term memory নিতে চাইলে প্রতেক দিন চর্চা করতে হবে)
 
