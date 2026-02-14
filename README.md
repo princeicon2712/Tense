@@ -249,3 +249,14 @@ whenever i get a time.
 I think here present every single person is a motivational speaker
 
 i gonna be 24 age.
+
+## মাইন্ড টেডিং
+
+(১) working memory
+
+(২) long term memory
+
+[ working memory থেকে long term memory নিতে চাইলে প্রতেক দিন চর্চা করতে হবে)
+
+
+ 
