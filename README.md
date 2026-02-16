@@ -68,6 +68,12 @@ without which county= কোন দেশ ছাড়া
 
 ## Adverb of Manner (কিভাবে)
 
+### Manner (কিভাবে)
+### Time (কখন)
+### Place (কোথায়)
+### Frequency (কতবার)
+### Degree (কতটা)
+
 slowly – ধীরে
 quickly – দ্রুত
 well – ভালোভাবে
